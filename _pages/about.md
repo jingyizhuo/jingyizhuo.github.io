@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a postdoctoral research scientist in the Department of Geosciences at **Princeton University**, working with **Gabriel Vecchi**, the Knox Taylor Professor of Geosciences. I received both my Ph.D. and B.S. degrees in Atmospheric Science from **Nanjing University**, under the supervision of **Professor Zhe-Min Tan**.
 
-My research use physics-based theory, climate modeling, and machine learning to enhance understanding of climate variability and change across a range of timescales. A particular focus of my work is enhancing the prediction and understanding of tropical cyclone variability, spanning from weather to climate scales.
+I work across a wide range of topics in climate science, including climate variability and change, with a particular focus on tropical Pacific sea surface temperature patterns and their global impacts. My research also aims to improve the understanding and prediction of tropical cyclone variability across timescales from weather to climate. I approach these questions by integrating physics-based theory, climate modeling, and machine learning techniques.
 
 ---
 
