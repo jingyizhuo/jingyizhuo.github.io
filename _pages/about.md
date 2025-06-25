@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Postdoc research scientist at Princetion University's Department of Geosciences, working with Knox Taylor Professor of Geosciences Gabriel Vecchi. I received both my Ph.D. and B.S in atmospheric science from Nanjing University in China, under the supervision of Prof. Zhe-Min Tan. I use a combination of physics-based theoretical frameworks, climate modeling, and machine learning techniques for better understanding of climate variability and climate change on broad timescales, as well as enhance prediction of tropical cyclone variability on time scales spanning weather and climate.
 
-For real-time, deep learning–based tropical cyclone intensity and size monitoring, see [deeptcnet](https://forecast.nju.edu.cn/deeptcnet).
+I am currently a postdoctoral research scientist in the Department of Geosciences at **Princeton University**, working with **Gabriel Vecchi**, the Knox Taylor Professor of Geosciences. I received both my Ph.D. and B.S. degrees in Atmospheric Science from **Nanjing University**, under the supervision of **Professor Zhe-Min Tan**.
 
-For access to a homogeneous  37-year dataset of tropical cyclone inner-to-outer size, see [deeptcsize](https://forecast.nju.edu.cn/deeptcnet/dataset.html).
+My research use physics-based theory, climate modeling, and machine learning to enhance understanding of climate variability and change across a range of timescales. A particular focus of my work is enhancing the prediction and understanding of tropical cyclone variability, spanning from weather to climate scales.
+
+---
+
+### 🔗 Related Resources
+
+- 📡 **Real-time monitoring of tropical cyclone intensity and size using deep learning**: [deeptcnet](https://forecast.nju.edu.cn/deeptcnet)
+- 📊 **Homogeneous 37-year dataset of tropical cyclone inner-to-outer size**: [deeptcsize](https://forecast.nju.edu.cn/deeptcnet/dataset.html)
