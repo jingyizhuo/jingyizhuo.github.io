@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Lin"
+title                    : "Jing-Yi Zhuo"
 title_separator          : "-"
-name                     : &name "Jonathan Lin"
-description              : &description "Assistant Professor"
-url                      : https://linjonathan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jingyi Zhuo"
+description              : &description "Postdoc Research Scientist"
+url                      : https://jingyizhuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "linjonathan.github.io"
+repository               : "jingyizhuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,18 +75,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+  tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Jonathan Lin"
+  name             : "Jing-Yi Zhuo"
   avatar           : "profile.jpeg"
-  bio              : "Assistant Professor"
-  location         : "Ithaca, NY"
+  bio              : "Postdoc Research Scientist"
+  location         : "Princeton, NJ"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=LEjwRacAAAAJ&hl=en"
-  email            : "jonathanlin@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=KWgdn14AAAAJ&hl=en"
+  email            : "jz4351@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "linjonathan"
+  github           : "jingyizhuo"
   google_plus      :
   keybase          :
   instagram        :
