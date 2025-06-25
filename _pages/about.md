@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at Cornell University's Earth and Atmospheric Sciences Department. Previously, I graduated with my Ph.D. in atmospheric science from the Earth, Atmospheric, and Planetary Sciences at MIT, under the supervision of Prof. Kerry Emanuel. I attended Princeton University for my undergraduate degree, where I majored in computer science and obtained a certificate in Geological Engineering.
+I am currently an Postdoc research scientist at Princetion University's Department of Geosciences, working with Knox Taylor Professor of Geosciences Gabriel Vecchi. I received both my Ph.D. and B.S in atmospheric science from Nanjing University in China, under the supervision of Prof. Zhe-Min Tan. I use a combination of physics-based theoretical frameworks, climate modeling, and machine learning techniques for better understanding of climate variability and climate change on broad timescales, as well as enhance prediction of tropical cyclone variability on time scales spanning weather and climate.
 
-If you are interested in working with me, please send me an email at [jonathanlin@cornell.edu](mailto:jonathanlin@cornell.edu). Please see the [Opportunities](/opportunities) tab for more details.
-
-For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http://tcs.mit.edu).
-For the public repository of the tropical cyclone downscaling model, see [here](https://github.com/linjonathan/tropical_cyclone_risk).
+For real-time, deep learning based tropical cyclone intensity and size monitoring, see [tcai]([http://tcs.mit.edu](https://forecast.nju.edu.cn/deeptcnet)).
