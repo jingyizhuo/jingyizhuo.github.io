@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Blog"
-    url: /blog/
+  - title: "Publication"
+    url: /publication/
+
+  - title: "Gallery"
+    url: /gallery/
 
   - title: "Resources"
     url: /resources/
-
-  - title: "Opportunities"
-    url: /opportunities/
