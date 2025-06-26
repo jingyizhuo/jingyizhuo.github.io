@@ -23,7 +23,7 @@ Here are some tools, codebases, and references that I’ve found useful in clima
 
 ## 🌀 Tropical Cyclone Downscaling & Risk Models
 - 🔗 [CHAZ](https://github.com/cl3225/CHAZ)
-- 🔗 [Jonathan Lin’s model](https://github.com/linjonathan/tropical_cyclone_risk):
+- 🔗 [Jonathan Lin’s model](https://github.com/linjonathan/tropical_cyclone_risk)
 
 ---
 
