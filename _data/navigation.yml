@@ -4,7 +4,7 @@
 
 main:
   - title: "Publication"
-    url: /publication/
+    url: /publications/
 
   - title: "Gallery"
     url: /gallery/
