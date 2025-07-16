@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Postdoc research scientist at Princetion University's High Meadows Environmental Institute, working with Prof. [Gabriel Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi). I received both my Ph.D. and B.S in atmospheric science from Nanjing University in China, under the supervision of Prof. [Zhe-Min Tan](https://as.nju.edu.cn/as_en/0a/7c/c20737a330364/page.htm).
+I am currently an Postdoc research scientist at Princetion University's High Meadows Environmental Institute, working with Prof. [Gabriel Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi). Before this, I was at Lamont-Doherty Earth Observatory of Columbia University. I received both my Ph.D. and B.S in atmospheric science from Nanjing University in China, under the supervision of Prof. [Zhe-Min Tan](https://as.nju.edu.cn/as_en/0a/7c/c20737a330364/page.htm).
 
 Area(s): Climate Science, Modeling, and Machine Learning
 
