@@ -9,7 +9,7 @@ author_profile: true
 Jones, K., **J.-Y. Zhuo**, and S. J. Camargo, 2025: Examining Historical Tropical Cyclone Frequency1
 Trends Using Reanalysis Datasets2. *In prep.*
 
-Liu, Siming., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
+Liu, S., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
 
 
 **Zhuo, J.-Y.**, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review.*
