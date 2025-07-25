@@ -6,11 +6,17 @@ author_profile: true
 ---
 
 ### Publications
+Jones, K., **J.-Y. Zhuo**, and S. J. Camargo, 2025: Examining Historical Tropical Cyclone Frequency1
+Trends Using Reanalysis Datasets2. *In prep.*
+
+Liu, Siming., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
+
+
 **Zhuo, J.-Y.**, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review.*
 
-Liu, Y., K. Chu, **J.-Y. Zhuo**, and Z.-M. Tan, 2025: Using evolution of eye to improve deep learning tropical cyclone intensity estimates. *Under review.*
+Liu, Y., K. Chu, **J.-Y. Zhuo**, and Z.-M. Tan, 2025: Using evolution of eye to improve deep learning tropical cyclone intensity estimates. *Under revie.*
 
-Brizuela, N. G., C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review.*
+Brizuela, N. G., C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review*
 
 **Zhuo, J.-Y.**, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, 38, 1037–1050. [doi:10.1175/JCLI-D-24-0331.1](https://doi.org/10.1175/JCLI-D-24-0331.1)
 
