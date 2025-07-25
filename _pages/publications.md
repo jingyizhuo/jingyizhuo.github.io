@@ -27,4 +27,4 @@ Duong, Q.-P., A. Wimmers, D. Herndon, Z.-M. Tan, **J.-Y. Zhuo**, J. Knaff, I. A.
 **Zhuo, J.-Y.**, and Z.-M. Tan, 2023: A deep-learning reconstruction of tropical cyclone size metrics (1981–2017): Examining trends. *J. Climate*, **36**, 5103–5123. [[Article](/pdfs/Zhuo_and_Tan2023_JCL.pdf)]
 
 **Zhuo, J.-Y.**, and Z.-M. Tan, 2021: Physics-augmented deep learning to improve tropical cyclone intensity and size estimation from satellite imagery. *Mon. Wea. Rev.*, **149**, 2097–2113. [[Article](/pdfs/Zhuo_and_Tan2021_MWR.pdf)]
-*This study has been cited 64 times and was adopted operationally by the China National Satellite Meteorological Center.*
+*This study has been adopted operationally by the China National Satellite Meteorological Center.*
