@@ -12,11 +12,11 @@ Trends Using Reanalysis Datasets2. *In prep.*
 Liu, S., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
 
 
-**Zhuo, J.-Y.**, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review.*
+**Zhuo, J.-Y.**, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*. 
 
-Liu, Y., K. Chu, **J.-Y. Zhuo**, and Z.-M. Tan, 2025: Using evolution of eye to improve deep learning tropical cyclone intensity estimates. *Under revie.*
+Liu, Y., K. Chu, **J.-Y. Zhuo**, and Z.-M. Tan, 2025: Using evolution of eye to improve deep learning tropical cyclone intensity estimates. *Under review*.
 
-Brizuela, N. G., C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review*
+Brizuela, N. G., C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review*. [[Article](/pdfs/preprint_Brizuela.pdf)]
 
 **Zhuo, J.-Y.**, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, **38**, 1037–1050. [[Article](/pdfs/Zhuo2025_JCL.pdf)]
 
