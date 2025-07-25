@@ -18,7 +18,7 @@ Liu, Y., K. Chu, **J.-Y. Zhuo**, and Z.-M. Tan, 2025: Using evolution of eye to 
 
 Brizuela, N. G., C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review*
 
-**Zhuo, J.-Y.**, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, 38, 1037–1050. [Article](/pdfs/Zhuo2025_JCL.pdf)
+**Zhuo, J.-Y.**, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, 38, 1037–1050. ([Article](/pdfs/Zhuo2025_JCL.pdf))
 
 Lin, J., C. Lee, S. J. Camargo, A. Sobel, and **J.-Y. Zhuo**, 2025: The response of tropical cyclone hazard to natural and forced patterns of warming. *npj Climate and Atmospheric Science*, 8, 109.
 
