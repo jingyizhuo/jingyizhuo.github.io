@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### Publications
-Jones, K., **J.-Y. Zhuo**, and S. J. Camargo, 2025: Examining Historical Tropical Cyclone Frequency1
-Trends Using Reanalysis Datasets2. *In prep.*
+Jones, K., **J.-Y. Zhuo**, and S. J. Camargo, 2025: Examining Historical Tropical Cyclone Frequency
+Trends Using Reanalysis Datasets. *In prep.*
 
 Liu, S., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
 
