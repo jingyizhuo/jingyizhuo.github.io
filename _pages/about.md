@@ -19,5 +19,6 @@ Research Summary:  Climate science; extreme weather events; tropical cyclones; o
 ### 🔗 Related Resources
 
 - 🛰️ For real-time, deep learning–based tropical cyclone intensity and size monitoring, see [deeptcnet](https://forecast.nju.edu.cn/deeptcnet).
-- 🌀 For access to a homogeneous  37-year dataset of tropical cyclone inner-to-outer size, see [deeptcsize](https://forecast.nju.edu.cn/deeptcnet/dataset.html).
+- 💾 For access to a homogeneous  37-year dataset of tropical cyclone inner-to-outer size, see [deeptcsize](https://forecast.nju.edu.cn/deeptcnet/dataset.html).
 - 🌍 For flux adjustment of a fully-couled climate model CESM2, see [cesm2-fa](https://github.com/jingyizhuo/CESM2-FA).
+- 🌀 SST patterns on TCs, see [cesm2-fa_tc](https://github.com/jingyizhuo/CESM2-FA_TC/tree/main).
