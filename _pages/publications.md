@@ -8,18 +8,17 @@ author_profile: true
 ### Publications
 1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Bias on the Simulation of Tropical Cyclone Response. *Ready to submit*
 
-1. Jones, K., **J.-Y. Zhuo***, and S. J. Camargo, 2026: Examining Historical Tropical Cyclone Frequency
-Trends Using Reanalysis Datasets. *Ready to submit*
-
 1. Liu, S., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
 
-1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*. 
+1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
 
-1. Liu, Y., **Zhuo, J.-Y.**, K. Chu*, and Z.-M. Tan, 2025: Using evolution of eye to improve deep learning tropical cyclone intensity estimates. *Under review*.
+1. Jones, K., **J.-Y. Zhuo***, and S. J. Camargo, 2026: Examining Historical Tropical Cyclone Frequency Trends Using Reanalysis Datasets. *Under review*
 
 1. X. Zhang, **Zhuo, J.-Y.**, X. Bao*, and et al., 2025: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *Under review*
 
-1. Brizuela, N. G.*, C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review*. [[Article](/pdfs/preprint_Brizuela.pdf)]
+1. Liu, Y., **Zhuo, J.-Y.**, K. Chu*, and Z.-M. Tan, 2026: Detection of Eye Occurrence in Sequential Satellite Infrared Imagery and Its Application to Improve Deep Learning‐Based Tropical Cyclone Intensity Estimation, *JRA-ML*, **3**, e2025JH000816. [[Article](/pdfs/Liu2026_JGR-AI.pdf)]
+
+1. Brizuela, N. G.*, C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *J. Phys. Oceanogr.*, **55**, 2349–2361. [[Article](/pdfs/Brizuela2025_JPO.pdf)]
 
 1. **Zhuo, J.-Y.***, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, **38**, 1037–1050. [[Article](/pdfs/Zhuo2025_JCL.pdf)]
 
