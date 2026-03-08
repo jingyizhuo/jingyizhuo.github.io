@@ -8,13 +8,11 @@ author_profile: true
 ### Publications
 1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Bias on the Simulation of Tropical Cyclone Response. *Ready to submit*
 
-1. Liu, S., **J.-Y. Zhuo**, I. Baxter, and J. Butler, 2025: Does AI weather forecasts show flow dependency?. *In prep.*
-
 1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
 
 1. Jones, K., **J.-Y. Zhuo***, and S. J. Camargo, 2026: Examining Historical Tropical Cyclone Frequency Trends Using Reanalysis Datasets. *Under review*
 
-1. X. Zhang, **Zhuo, J.-Y.**, X. Bao*, and et al., 2025: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *Under review*
+1. X. Zhang, **Zhuo, J.-Y.**, X. Bao*, and et al., 2025: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *GRL*, https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496
 
 1. Liu, Y., **Zhuo, J.-Y.**, K. Chu*, and Z.-M. Tan, 2026: Detection of Eye Occurrence in Sequential Satellite Infrared Imagery and Its Application to Improve Deep Learning‐Based Tropical Cyclone Intensity Estimation, *JRA-ML*, **3**, e2025JH000816. [[Article](/pdfs/Liu2026_JGR-AI.pdf)]
 
