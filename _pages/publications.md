@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ### Publications
-1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Bias on the Simulation of Tropical Cyclone Response. *Ready to submit*
+1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Bias on the Simulation of Tropical Cyclone Response. *Under review*
 
-1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
+1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2026: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
 
 1. Jones, K., **J.-Y. Zhuo***, and S. J. Camargo, 2026: Examining Historical Tropical Cyclone Frequency Trends Using Reanalysis Datasets. *Under review*
 
