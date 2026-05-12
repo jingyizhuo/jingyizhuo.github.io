@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Publications
+1. **Zhuo, J.-Y.***, Lorenzo M. Polvani, G. A. Vecchi, 2026: A muted eastern Pacific cooling response to Antarctic ozone depletion linked to double-ITCZ bias *In Prep.*
+   
 1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Bias on the Simulation of Tropical Cyclone Response. *Under review*
 
 1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2026: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
