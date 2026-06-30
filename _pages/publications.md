@@ -12,7 +12,7 @@ author_profile: true
 
 1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2026: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
 
-1. Jones, K., **J.-Y. Zhuo (corr auth) ***, S. J. Camargo, K. I. Hodges, S. S. Bell, S. S. Chand 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *Accepted*
+1. Jones, K., **J.-Y. Zhuo (corr auth)**, S. J. Camargo, K. I. Hodges, S. S. Bell, S. S. Chand 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *Accepted*
 
 1. X. Zhang, **Zhuo, J.-Y.**, X. Bao*, and et al., 2025: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *GRL*, https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496
 
