@@ -47,7 +47,7 @@ Satellite imagery offers a continuous, global record of TC structure, but transl
 **Key questions:** How can we encode physical knowledge into neural networks to improve TC monitoring? What do multi-decadal records of TC size reveal about long-term trends?
 
 **Related projects:**
-- Real-time TC monitoring → [deeptcnet](https://forecast.nju.edu.cn/deeptcnet) *(operational at China National Satellite Meteorological Center)*
+- Real-time TC monitoring → [deeptcnet](https://forecast.nju.edu.cn/deeptcnet) 
 - 37-year TC size dataset → [deeptcsize](https://forecast.nju.edu.cn/deeptcnet/dataset.html)
 - Physics-augmented deep learning for TC intensity/size — [Zhuo & Tan, MWR 2021](https://doi.org/10.1175/MWR-D-20-0333.1)
 - TC size trends from deep learning reconstruction — [Zhuo & Tan, J. Climate 2023](https://doi.org/10.1175/JCLI-D-22-0714.1)
