@@ -4,20 +4,47 @@ permalink: /research/
 author_profile: true
 ---
 
-### Publications
-**Zhuo, J.-Y.**, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2025: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review.*
+My research sits at the intersection of climate dynamics, tropical meteorology, and machine learning. I am broadly interested in understanding how the climate system responds to natural and anthropogenic forcing, with a focus on extreme weather events — particularly tropical cyclones.
 
-Liu, Y., K. Chu, **J.-Y. Zhuo**, and Z.-M. Tan, 2025: Using evolution of eye to improve deep learning tropical cyclone intensity estimates. *Under review.*
+---
 
-Brizuela, N. G., C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *Under review.*
+## Climate Model Biases and SST Patterns
 
-**Zhuo, J.-Y.**, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, 38, 1037–1050. [doi:10.1175/JCLI-D-24-0331.1](https://doi.org/10.1175/JCLI-D-24-0331.1)
+A persistent challenge in climate science is that coupled climate models often misrepresent sea surface temperature (SST) patterns — most notably the "double-ITCZ" bias and the associated warm bias in the eastern Pacific cold tongue. My work investigates how these biases distort the simulated climate response to external forcing (e.g., aerosol reductions, Antarctic ozone depletion), and develops flux adjustment techniques to correct them.
 
-Lin, J., C. Lee, S. J. Camargo, A. Sobel, and **J.-Y. Zhuo**, 2025: The response of tropical cyclone hazard to natural and forced patterns of warming. *npj Climate and Atmospheric Science*, 8, 109.
+**Key questions:** How do SST pattern biases shape the response to greenhouse gas forcing and aerosol changes? Can we use flux adjustment to produce more realistic climate simulations?
 
-Duong, Q.-P., A. Wimmers, D. Herndon, Z.-M. Tan, **J.-Y. Zhuo**, J. Knaff, I. A. Abdulsalam, T. Horinouchi, R. Miyata, and A. Avenas, 2023: Objective satellite methods including AI algorithms reviewed for the Tenth International Workshop on Tropical Cyclones (IWTC-10). *Tropical Cyclone Research and Review*, 12(4), 259–266.
+**Related projects:**
+- Flux adjustment of CESM2 → [cesm2-fa](https://github.com/jingyizhuo/CESM2-FA)
+- Eastern Pacific cooling under aerosol reduction *(Under review)*
+- Muted eastern Pacific cooling linked to double-ITCZ bias *(In prep)*
 
-**Zhuo, J.-Y.**, and Z.-M. Tan, 2023: A deep-learning reconstruction of tropical cyclone size metrics (1981–2017): Examining trends. *J. Climate*, 36, 5103–5123.
+---
 
-**Zhuo, J.-Y.**, and Z.-M. Tan, 2021: Physics-augmented deep learning to improve tropical cyclone intensity and size estimation from satellite imagery. *Mon. Wea. Rev.*, 149, 2097–2113.  
-*This study has been cited 64 times and was adopted operationally by the China National Satellite Meteorological Center.*
+## Tropical Cyclone Activity under Climate Change
+
+Understanding how tropical cyclone (TC) frequency, intensity, and hazard respond to both natural variability and long-term warming is central to climate risk assessment. I study how SST warming patterns — whether from model bias or real-world forcing — modulate TC activity, and re-examine historical TC frequency trends using improved observational methods.
+
+**Key questions:** How do SST warming patterns affect TC hazard? What do the historical trends in TC frequency really look like when observational heterogeneities are accounted for?
+
+**Related projects:**
+- SST warming pattern biases and TC activity *(Under review)*
+- Re-examining historical TC frequency trends — [Jones et al., GRL 2026](https://doi.org/10.1029/2026GL122083)
+- TC hazard response to natural and forced warming — [Lin et al., npj 2025](https://doi.org/10.1038/s41612-025-00997-y)
+- SST patterns on TCs → [cesm2-fa_tc](https://github.com/jingyizhuo/CESM2-FA_TC/tree/main)
+
+---
+
+## Physics-Informed Machine Learning for Tropical Cyclones
+
+Satellite imagery offers a continuous, global record of TC structure, but translating raw imagery into reliable intensity and size estimates remains difficult. I develop deep learning models that incorporate physical constraints to improve these estimates, and apply them to build long, homogeneous datasets of TC inner-to-outer size.
+
+**Key questions:** How can we encode physical knowledge into neural networks to improve TC monitoring? What do multi-decadal records of TC size reveal about long-term trends?
+
+**Related projects:**
+- Real-time TC monitoring → [deeptcnet](https://forecast.nju.edu.cn/deeptcnet) *(operational at China National Satellite Meteorological Center)*
+- 37-year TC size dataset → [deeptcsize](https://forecast.nju.edu.cn/deeptcnet/dataset.html)
+- Physics-augmented deep learning for TC intensity/size — [Zhuo & Tan, MWR 2021](https://doi.org/10.1175/MWR-D-20-0333.1)
+- TC size trends from deep learning reconstruction — [Zhuo & Tan, J. Climate 2023](https://doi.org/10.1175/JCLI-D-22-0714.1)
+- Eye detection for improved intensity estimation — [Liu et al., JRA-ML 2026](https://doi.org/10.1029/2025JH000816)
+- Diurnal pulsing signatures for AI-driven intensity prediction — [Zhang et al., GRL 2026](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496)
