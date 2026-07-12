@@ -18,7 +18,7 @@ author_profile: true
 
 1. Liu, Y., **Zhuo, J.-Y.**, K. Chu*, and Z.-M. Tan, 2026: Detection of Eye Occurrence in Sequential Satellite Infrared Imagery and Its Application to Improve Deep Learning‐Based Tropical Cyclone Intensity Estimation, *JRA-ML*, **3**, e2025JH000816, https://doi.org/10.1029/2025JH000816 [[Article](/pdfs/Liu2026_JGR-AI.pdf)]
 
-1. Brizuela, N. G.*, C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *J. Phys. Oceanogr.*, **55**, 2349–2361. [[Article](/pdfs/Brizuela2025_JPO.pdf)]
+1. Brizuela, N. G.*, C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *J. Phys. Oceanogr.*, **55**, 2349–2361. [https://journals.ametsoc.org/view/journals/phoc/55/12/JPO-D-24-0178.1.xml](https://journals.ametsoc.org/view/journals/phoc/55/12/JPO-D-24-0178.1.xml) [[Article](/pdfs/Brizuela2025_JPO.pdf)]
 
 1. **Zhuo, J.-Y.***, C. Lee, A. Sobel, R. Seager, S. J. Camargo, Y. Lin, B. Fosu, and K. A. Reed, 2025: A more La Niña–like response to radiative forcing after flux adjustment in CESM2. *J. Climate*, **38**, 1037–1050. [https://doi.org/10.1175/JCLI-D-24-0331.1](https://doi.org/10.1175/JCLI-D-24-0331.1) [[Article](/pdfs/Zhuo2025_JCL.pdf)]
 
