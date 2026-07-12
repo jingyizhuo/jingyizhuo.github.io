@@ -39,6 +39,11 @@ Understanding how tropical cyclone (TC) frequency, intensity, and hazard respond
 
 Satellite imagery offers a continuous, global record of TC structure, but translating raw imagery into reliable intensity and size estimates remains difficult. I develop deep learning models that incorporate physical constraints to improve these estimates, and apply them to build long, homogeneous datasets of TC inner-to-outer size.
 
+<figure>
+  <img src="/images/fig1_mwr2021.png" alt="Physics-augmented deep learning architecture for TC intensity and size estimation" style="max-width:100%; border-radius:6px;">
+  <figcaption style="font-size:0.8em; color:#7a8288; margin-top:6px;">Fig. 1 from Zhuo & Tan (2021, MWR): The physics-augmented deep learning framework — satellite IR imagery is fed into shared CNN layers, with physical auxiliary information injected at the task-specific layers for both single-task and multi-task learning.</figcaption>
+</figure>
+
 **Key questions:** How can we encode physical knowledge into neural networks to improve TC monitoring? What do multi-decadal records of TC size reveal about long-term trends?
 
 **Related projects:**
