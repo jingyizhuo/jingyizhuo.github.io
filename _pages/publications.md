@@ -14,9 +14,9 @@ author_profile: true
 
 1. Jones, K., **J.-Y. Zhuo (corresponding)**, S. J. Camargo, K. I. Hodges, S. S. Bell, S. S. Chand 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *GRL*, **53**, e2026GL122083. [https://doi.org/10.1029/2026GL122083](https://doi.org/10.1029/2026GL122083) [[Article](/pdfs/Jones2026_GRL.pdf)]
 
-1. X. Zhang, **Zhuo, J.-Y.**, X. Bao*, and et al., 2026: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *GRL*, **53**, e2025GL119496. [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496) [[Article](/pdfs/Zhang2026_GRL.pdf)]
+1. X. Zhang, **J.-Y. Zhuo**, X. Bao*, and et al., 2026: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *GRL*, **53**, e2025GL119496. [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496) [[Article](/pdfs/Zhang2026_GRL.pdf)]
 
-1. Liu, Y., **Zhuo, J.-Y.**, K. Chu*, and Z.-M. Tan, 2026: Detection of Eye Occurrence in Sequential Satellite Infrared Imagery and Its Application to Improve Deep Learning‐Based Tropical Cyclone Intensity Estimation, *JRA-ML*, **3**, e2025JH000816. [https://doi.org/10.1029/2025JH000816](https://doi.org/10.1029/2025JH000816) [[Article](/pdfs/Liu2026_JGR-AI.pdf)]
+1. Liu, Y., **J.-Y. Zhuo**, K. Chu*, and Z.-M. Tan, 2026: Detection of Eye Occurrence in Sequential Satellite Infrared Imagery and Its Application to Improve Deep Learning‐Based Tropical Cyclone Intensity Estimation, *JRA-ML*, **3**, e2025JH000816. [https://doi.org/10.1029/2025JH000816](https://doi.org/10.1029/2025JH000816) [[Article](/pdfs/Liu2026_JGR-AI.pdf)]
 
 1. Brizuela, N. G.*, C.-Y. Lee, A. Sobel, R. Seager, S. J. Camargo, and **J.-Y. Zhuo**, 2025: Tropical thermocline powers Pacific equatorial upwelling. *J. Phys. Oceanogr.*, **55**, 2349–2361. [https://journals.ametsoc.org/view/journals/phoc/55/12/JPO-D-24-0178.1.xml](https://journals.ametsoc.org/view/journals/phoc/55/12/JPO-D-24-0178.1.xml) [[Article](/pdfs/Brizuela2025_JPO.pdf)]
 
