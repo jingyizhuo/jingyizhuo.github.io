@@ -12,7 +12,7 @@ author_profile: true
    
 1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impacts of Sea Surface Temperature Warming Pattern Biases on Tropical Cyclone Activity and Hazard. *Under review*
 
-1. Jones, K., **J.-Y. Zhuo (corr auth)**, S. J. Camargo, K. I. Hodges, S. S. Bell, S. S. Chand 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *GRL*, **53**, e2026GL122083. [https://doi.org/10.1029/2026GL122083](https://doi.org/10.1029/2026GL122083)
+1. Jones, K., **J.-Y. Zhuo (corr auth)***, S. J. Camargo, K. I. Hodges, S. S. Bell, S. S. Chand 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *GRL*, **53**, e2026GL122083. [https://doi.org/10.1029/2026GL122083](https://doi.org/10.1029/2026GL122083)
 
 1. X. Zhang, **Zhuo, J.-Y.**, X. Bao*, and et al., 2026: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *GRL*, https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496
 
