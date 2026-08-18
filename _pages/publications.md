@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Publications
-1. **Zhuo, J.-Y.***, Lorenzo M. Polvani, G. A. Vecchi, 2026/7: A muted eastern Pacific cooling response to Antarctic ozone depletion linked to double-ITCZ bias *Under review*.
+1. **Zhuo, J.-Y.***, Lorenzo M. Polvani, G. A. Vecchi, 2026: A muted eastern Pacific cooling response to Antarctic ozone depletion linked to double-ITCZ bias. *Under review*.
    
 1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 202x: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
    
