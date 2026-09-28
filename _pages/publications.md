@@ -10,7 +10,7 @@ author_profile: true
    
 1. **Zhuo, J.-Y.***, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 202x: Eastern Pacific cooling due to Northern Hemisphere aerosol reduction, and the role of model bias. *Under review*.
    
-1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impacts of Sea Surface Temperature Warming Pattern Biases on Tropical Cyclone Activity and Hazard. *Under review*
+1. **Zhuo, J.-Y.***, C. Lee, S. J. Camargo, A. Sobel, and G. A. Vecchi, 2026: Impacts of Sea Surface Temperature Warming Pattern Biases on Tropical Cyclone Activity and Hazard. *Accepted*
 
 1. Jones, K., **J.-Y. Zhuo (corresponding)**, S. J. Camargo, K. I. Hodges, S. S. Bell, S. S. Chand 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *GRL*, **53**, e2026GL122083. [https://doi.org/10.1029/2026GL122083](https://doi.org/10.1029/2026GL122083) [[Article](/pdfs/Jones2026_GRL.pdf)]
 
