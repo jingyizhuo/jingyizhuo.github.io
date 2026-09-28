@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version]({{ base_path }}/files/CV_JingyiZhuo.pdf){: .btn .btn--primary}
+[Download PDF version]({{ base_path }}/pdfs/CV_JingyiZhuo.pdf){: .btn .btn--primary}
 
 ## Education
 * Ph.D. in Atmospheric Science, Nanjing University, 2017 – 2022
