@@ -1,9 +1,3 @@
-# main links links
-#  - title: "Research"
-#    url: /research/
-#  - title: "Gallery"
-#    url: /gallery/
-
 main:
   - title: "Research"
     url: /research/
@@ -13,3 +7,6 @@ main:
 
   - title: "Resources"
     url: /resources/
+
+  - title: "CV"
+    url: /cv/
