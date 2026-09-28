@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != "" %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/clean.css' | relative_url }}">
+</head>
+<body>
+
+{% if page.banner %}
+<section class="banner" style="--banner-img: url('{{ '/images/banner.jpg' | relative_url }}');">
+  <div class="banner-nav">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+    <nav class="links" aria-label="Main">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+  <div class="banner-hero">
+    <h1>Jing-Yi Zhuo</h1>
+    <p class="sub">Postdoc, Princeton University</p>
+    <div class="social-row">
+      <a href="mailto:{{ site.author.email }}">
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="4.5" width="19" height="15" rx="2"/><path d="M3 6.5l9 6.5 9-6.5"/></svg>
+        <span>Email</span>
+      </a>
+      <a href="https://github.com/{{ site.author.github }}">
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor"><path d="M12 .5C5.73.5.5 5.73.5 12c0 5.09 3.29 9.4 7.86 10.94.58.11.79-.25.79-.56 0-.28-.01-1.02-.02-2-3.2.7-3.88-1.54-3.88-1.54-.53-1.34-1.29-1.7-1.29-1.7-1.05-.72.08-.71.08-.71 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.71 1.26 3.37.96.1-.75.4-1.26.73-1.55-2.55-.29-5.23-1.28-5.23-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11.05 11.05 0 0 1 5.79 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.69 5.4-5.25 5.69.41.36.78 1.06.78 2.15 0 1.55-.01 2.8-.01 3.18 0 .31.21.68.8.56A10.52 10.52 0 0 0 23.5 12C23.5 5.73 18.27.5 12 .5z"/></svg>
+        <span>GitHub</span>
+      </a>
+      <a href="{{ site.author.googlescholar }}">
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor"><path d="M12 2 1 8l11 6 9-4.9V17h2V8L12 2zM5 13.18v3.64L12 21l7-4.18v-3.64L12 17l-7-3.82z"/></svg>
+        <span>Google Scholar</span>
+      </a>
+      <a href="https://orcid.org/{{ site.author.orcid }}">
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12S5.65 23.5 12 23.5 23.5 18.35 23.5 12 18.35.5 12 .5zM7.7 6.15a1.32 1.32 0 1 1 0 2.64 1.32 1.32 0 0 1 0-2.64zM6.65 9.9h2.1v9.15h-2.1V9.9zm4.55 0h4.05c3.06 0 4.6 2.14 4.6 4.58 0 2.7-1.9 4.58-4.6 4.58h-4.05V9.9zm2.1 1.88v5.4h1.8c1.98 0 2.72-1.42 2.72-2.7 0-1.46-.9-2.7-2.75-2.7h-1.77z"/></svg>
+        <span>ORCID</span>
+      </a>
+    </div>
+  </div>
+</section>
+{% else %}
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+{% endif %}
+
+<main class="wrap content{% if page.narrow %} content--narrow{% endif %}">
+  {% if page.title and page.title != "" %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+  {{ content }}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <span>&copy; {{ site.author.name }}, {{ 'now' | date: '%Y' }}</span>
+    <span class="footer-links">
+      <a href="mailto:{{ site.author.email }}">Email</a>
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
+      {% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a>{% endif %}
+    </span>
+  </div>
+</footer>
+
+</body>
+</html>
