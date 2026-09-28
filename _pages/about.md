@@ -12,19 +12,13 @@ redirect_from:
 
 ## Welcome.
 
-I study how climate change reshapes extreme weather, with a focus on tropical cyclones and tornadoes, and why climate models often disagree with observations about it. A central thread of my work is the role of sea surface temperature warming patterns: how model biases, such as the double-ITCZ bias, distort simulated responses to forcings like aerosol reductions and Antarctic ozone depletion, and how flux adjustment can correct them. I also build physics-informed deep learning tools for tropical cyclone monitoring, including a real-time product and a 37-year tropical cyclone size dataset that are openly available.
+I'm a climate scientist interested in how a changing climate reshapes extreme weather. My work sits at the intersection of climate dynamics, ocean-atmosphere interactions, and machine learning — I'm drawn to questions about why climate models and observations often disagree, how patterns of ocean warming shape the hazards we care about, and how data-driven tools can sharpen our ability to monitor and understand extreme storms.
 
-## News
+Off the clock, I'm owned by my two cats 🐱🐈‍⬛ (Nino and Nina!!! -  sibling brother and sister I adopted from a shelter in NYC!). I usually have a camera with me 📷, and lately I've fallen down the film photography rabbit hole. I'm also a big fan of jazz and rock music 🎷.
 
-<ul class="news">
-  <li><b>March 2026</b>: Two oral talks at the 37th AMS Conference on Hurricanes and Tropical Meteorology in San Diego, on how sea surface temperature trend biases affect tropical cyclone activity and hazard. I also chaired the session on Climate Variability and Change in the Tropics.</li>
-  <li><b>2026</b>: New paper led by Columbia undergraduate Kailey Jones, re-examining historical trends of tropical cyclone frequency. Check it out <a href="https://doi.org/10.1029/2026GL122083">here</a>!</li>
-  <li><b>2026</b>: Two new papers with collaborators at Nanjing University on AI-driven tropical cyclone intensity estimation and prediction, in <a href="https://doi.org/10.1029/2025JH000816">JGR: Machine Learning and Computation</a> and <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL119496">GRL</a>.</li>
-  <li><b>December 2025</b>: Invited talk at AGU25 in New Orleans on eastern Pacific cooling due to Northern Hemisphere aerosol reduction and the role of model bias.</li>
-  <li><b>December 2025</b>: New paper led by N. G. Brizuela on how the tropical thermocline powers Pacific equatorial upwelling, in <a href="https://journals.ametsoc.org/view/journals/phoc/55/12/JPO-D-24-0178.1.xml">J. Phys. Oceanogr.</a></li>
-  <li><b>July 2025</b>: Joined the High Meadows Environmental Institute at Princeton University as a postdoctoral research scientist, working with Prof. <a href="https://vecchi.princeton.edu/people/gabriel-vecchi">Gabriel Vecchi</a>.</li>
-  <li><b>June 2025</b>: Oral talk at the Symposium on Tropical Cyclone Risk in a Changing Climate in Tampa.</li>
-</ul>
+## Let's connect
+
+I'm currently on the academic job market and always happy to hear from prospective collaborators, students, or search committees. Feel free to reach out by <a href="mailto:jzhuo@princeton.edu">email</a>, or take a look at my <a href="{{ '/cv/' | relative_url }}">CV</a> and <a href="{{ '/publications/' | relative_url }}">publications</a>.
 
 ## Data and code
 
