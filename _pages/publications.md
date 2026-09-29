@@ -4,7 +4,7 @@ permalink: /publications/
 layout: clean
 ---
 
-<p class="pub-note">Star (*) indicates corresponding author. Underline indicates grad student.<br>
+<p class="pub-note">Star (*) indicates corresponding author. Underline indicates student.<br>
 Head over to <a href="https://scholar.google.com/citations?user=TbknwJ4AAAAJ&hl=en&inst=10749622055976013885">Google Scholar</a> for the most updated list of publications.</p>
 
 <h3 class="pub-year">2026</h3>
