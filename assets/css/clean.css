@@ -142,6 +142,26 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 2.2rem 0; }
   .news-dek { font-size: 0.92rem; }
 }
 
+/* What I'm working on: 3-up cards */
+.work-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; margin: 1.2rem 0 0.5rem; }
+.work-card { border: 1px solid var(--rule); border-radius: 8px; padding: 1.3rem 1.3rem 1.2rem; background: var(--bg-soft); }
+.work-card h3 { margin: 0 0 0.5rem; font-size: 1.08rem; }
+.work-card p { margin: 0 0 0.7rem; font-size: 0.95rem; line-height: 1.55; }
+.work-card a { font-size: 0.9rem; font-weight: 600; }
+@media (max-width: 700px) { .work-grid { grid-template-columns: 1fr; } }
+
+/* Selected work: compact title + one-line finding */
+.selected-list { list-style: none; padding: 0; margin: 1rem 0 0.5rem; }
+.selected-item { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+.selected-item:last-child { border-bottom: 0; }
+.selected-item h3 { margin: 0 0 0.35rem; font-size: 1.08rem; }
+.selected-item h3 a { text-underline-offset: 3px; }
+.selected-item p { margin: 0; color: var(--muted); font-size: 0.96rem; line-height: 1.5; }
+
+/* Connect links row on the homepage */
+.connect-links { margin-top: 1rem; font-size: 0.98rem; }
+.connect-links a { margin-right: 1.3rem; font-weight: 600; }
+
 /* Buttons */
 .btn { display: inline-block; padding: 0.45rem 1rem; border: 1px solid var(--accent); border-radius: 4px; background: var(--accent); color: #fff; font-size: 0.95rem; margin-bottom: 0.5rem; }
 .btn:hover { background: var(--accent-dark); border-color: var(--accent-dark); color: #fff; text-decoration: none; }
