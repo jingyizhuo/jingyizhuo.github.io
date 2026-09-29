@@ -19,7 +19,7 @@ redirect_from:
 * Postdoc, High Meadows Environmental Institute, Princeton University, 2025 – Present
   * Advisor: Gabriel Vecchi
 * Postdoc, Ocean & Climate Physics Division, Lamont-Doherty Earth Observatory, Columbia University, 2023 – 2025
-  * Advisors: Adam Sobel, Chia-Ying Lee, Suzana Camargo, Richard Seager
+  * Advisors: Chia-Ying Lee, Adam Sobel, Suzana Camargo, Richard Seager
 
 ## Peer-Reviewed Publications
 (\* denotes corresponding author)
