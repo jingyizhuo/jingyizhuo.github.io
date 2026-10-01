@@ -12,7 +12,7 @@ redirect_from:
 
 ## Welcome.
 
-I'm a climate scientist studying how climate change reshapes extreme weather. My research brings together climate dynamics, physical modeling, and machine learning to understand how large-scale changes in the climate system shape regional weather and hazards. I'm particularly interested in why certain patterns of surface warming form, how they influence extreme weather, why climate models and observations sometimes tell different stories, and how data-driven approaches can help address these questions.
+I'm a climate scientist studying climate controls on extreme weather. My research brings together climate dynamics, physical modeling, and machine learning to understand how large-scale changes in the climate system shape regional weather and hazards. I'm particularly interested in why certain patterns of surface warming form, how they influence extreme weather, why climate models and observations sometimes tell different stories, and how data-driven approaches can help address these questions.
 
 Off the clock, I'm owned by my two cats, Nino and Nina!!! 🐈🐈‍⬛, littermates I adopted from a shelter in NYC. I usually have a camera with me, and lately I've fallen pretty deep into the film photography rabbit hole 🎞️📷. There's also usually something playing in the background, most often jazz or rock 🎷🎸.
 
