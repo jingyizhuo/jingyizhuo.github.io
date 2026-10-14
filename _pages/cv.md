@@ -19,7 +19,7 @@ redirect_from:
 * Postdoc, High Meadows Environmental Institute, Princeton University, 2025 – Present
   * Advisor: Gabriel Vecchi
 * Postdoc, Ocean & Climate Physics Division, Lamont-Doherty Earth Observatory, Columbia University, 2023 – 2025
-  * Advisors: Chia-Ying Lee, Adam Sobel, Suzana Camargo, Richard Seager
+  * Advisors: Adam Sobel, Chia-Ying Lee, Suzana Camargo, Richard Seager
 
 ## Peer-Reviewed Publications
 (\* denotes corresponding author)
@@ -28,7 +28,7 @@ redirect_from:
 1. Zhuo J.-Y.\*, Wenchang Yang, and G. A. Vecchi, 2026: Global Tornado Trends and Related Impacts from Evolving Sea Surface Warming Patterns. *In prep.*
 1. Zhuo J.-Y.\*, C. Lee, G. A. Vecchi, R. Seager, A. Sobel, and S. J. Camargo, 2026: Eastern Pacific Cooling due to Northern Hemisphere Aerosol Reduction, and the Role of Model Bias. *Resubmitted.*
 1. Zhuo J.-Y.\*, Lorenzo M. Polvani, and G. A. Vecchi, 2026: Muted eastern Pacific cooling response to stratospheric ozone depletion linked to double-ITCZ bias. *Under review.*
-1. Zhuo J.-Y.\*, C. Lee, A. Sobel, S. J. Camargo and A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Biases on Tropical Cyclone Activity and Hazard. *GRL, Accepted.*
+1. Zhuo J.-Y.\*, C. Lee, A. Sobel, S. J. Camargo and A. Vecchi, 2026: Impact of Sea Surface Temperature Trend Biases on Tropical Cyclone Activity and Hazard. *GRL*, 53, e2026GL124022.
 1. Jones, K., Zhuo J.-Y.\* (corresponding), S. J. Camargo, K. I. Hodges, S. S. Bell, and S. S. Chand, 2026: Re-examining Historical Trends of Tropical Cyclone Frequency. *GRL*, 53, e2026GL122083.
 1. X. Zhang\*, Zhuo J.-Y., S. Guo, K. Zhu, and Z.-M. Tan, 2026: Integrating Diurnal Pulsing Signatures for AI-Driven Tropical Cyclone Intensity Prediction. *GRL*, 53, e2025GL119496.
 1. Liu Y., J.-Y. Zhuo, K. Chu\*, and Z.-M. Tan, 2026: Detection of eye occurrence in sequential satellite infrared imagery and its application to improve deep learning-based tropical cyclone intensity estimation. *JGR: Machine Learning and Computation*, 3, e2025JH000816.
